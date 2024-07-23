@@ -10,8 +10,9 @@
     color: white;
     text-align: center;
     padding-top: 45px ;
+    margin: 0px;
 }
-.the-text{
+p{
     color: white;
     padding-top: 40px;
     font-size: 25px;
