@@ -1,0 +1,21 @@
+.main-navbar{
+    background-color: lightgray;
+    padding: 10px;
+    text-align: center;
+    box-shadow: 0 0 5px gray;
+    position: sticky ;
+    top: 0;
+    z-index: 100;
+}
+.main-navbar a{
+    text-decoration: none;
+    color: black;
+    display: inline-block;
+    padding: 10px 30px;
+    font-size: 18px;
+}
+.main-navbar a:hover{
+    background :radial-gradient(black,teal);
+    color: white;
+    border-radius: 50px;
+}

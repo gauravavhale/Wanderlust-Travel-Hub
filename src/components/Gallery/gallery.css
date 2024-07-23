@@ -1,0 +1,38 @@
+.gallery{
+    text-align: center;
+    padding: 20px;
+}
+.gallery-wrapper{
+    margin-top: 40px;
+    text-align: center;
+}
+.the-heading{
+    font-size: 80px;
+    color: white;
+    text-align: center;
+    padding-top: 45px ;
+}
+.the-text{
+    color: white;
+    padding-top: 40px;
+    font-size: 25px;
+}
+.zoom{
+    width:400px;
+    height: 300px;
+    overflow: hidden;
+    border-radius: 5px;
+    box-shadow: 0 0 10px gray;
+    display: inline-block;
+    margin: 15px;
+}
+
+.zoom img{
+    width: 100%;
+    height: 100%;
+    transition: all 0.5s;}
+   
+.zoom img:hover{
+    transform: scale(1.2,1.2);
+    cursor: pointer;
+}

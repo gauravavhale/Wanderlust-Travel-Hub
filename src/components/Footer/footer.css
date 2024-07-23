@@ -1,0 +1,12 @@
+.main-footer{
+    background-color: black;
+    text-align: center;
+    padding: 20px;
+    color: white;
+}
+.main-footer a{
+    color: teal;
+    text-decoration: none ;
+    font-weight: bold;
+
+}

@@ -1,0 +1,67 @@
+.contact {
+    height: 80vh;
+    position: relative;
+    background: url('../../../public/Image/pexels-eberhardgross-1287145\ \(2\).jpg') no-repeat;
+    background-size: cover;
+}
+.form{
+    border: none;
+    width: 30%;
+    height: 70%;
+    position: absolute;
+    top: 17%;
+    left: 35%;
+    background-color: transparent;
+}
+input {
+    border: 2px solid white;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 25px;
+    height: 25px;
+    background-color: transparent;
+}
+input:focus {
+    border: rgb(255, 255, 255);
+}
+
+input::placeholder{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    justify-content: center;
+    text-align: center;
+}
+textarea {
+    border: 2px solid white;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 25px;
+    height: 25px;
+    background-color: transparent;
+}
+textarea::placeholder{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    justify-content: center;
+    text-align: center;
+}
+h1 {
+    color: rgb(0, 0, 0);
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    font-size: 2rem;
+}
+.formdata{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.btn{
+    background-color: white;
+    color: black;
+    border-radius: 25px;
+    margin-top: 20px;
+    font-size: medium;
+    padding: 10px 20px 10px 20px;
+}

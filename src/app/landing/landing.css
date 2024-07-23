@@ -1,0 +1,32 @@
+.landing{
+    background: white url(../../../public/Image/vacation.jpg) no-repeat scroll center ;
+    height: 100vh;
+}
+.landing .wrapper{
+ background-color: rgba(0,0,0,0.5);
+ height: 100%;
+}
+.landing .wrapper-content{
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+ height: 100%;
+
+}
+
+.landing-heading{
+font-size: 100px;
+color: #51caca;
+margin-bottom: 20px;
+}
+.btn{
+    background-color: teal;
+    border: none;
+    font-size: 18px;
+    padding: 10px;
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
+    margin-top: 10px;
+}

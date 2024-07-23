@@ -1,0 +1,66 @@
+.packages {
+    text-align: center;
+    padding-top: 20px;
+}
+.the-heading{
+    font-size: 80px;
+    color: teal;
+    text-align: center;
+    padding-top: 30px ;
+}
+.the-text{
+    color: black;
+    padding-top: 25px;
+    font-size: 25px;
+}
+.package-wrapper{
+    margin: 40px; 
+    
+}
+.package-card{
+    box-shadow: 0 0 10px gray;
+    border-radius: 5px;
+    width: 300px;
+    padding: 10px;
+    text-align: left;
+    display: inline-block;
+    margin: 15px;
+}
+.package-card-body{
+    padding: 10px;
+}
+.package-card img{
+    width: 100%;
+    height: 200px;
+    border-radius: 5px;
+}
+
+.package-card h3{
+    font-size: 30px;
+    color: teal;
+}
+.package-card h5{
+    font-size: 20px;
+    color: teal;
+}
+.package-card p{
+    font-size: 18px;
+    color: #929292;
+}
+.package-card .btn{
+    border-radius: 50px;
+}
+.btn{
+    background-color: teal;
+    border: none;
+    font-size: 18px;
+    padding: 10px;
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
+    margin-top: 10px;
+  }
+  .btn:hover{
+    box-shadow: 0 0 10px gray;
+    cursor: pointer;
+  }

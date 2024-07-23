@@ -1,0 +1,11 @@
+.main-header{
+    background : radial-gradient(rgb(107, 107, 103),teal);
+    color: white;
+    padding: 15px;
+    text-align: center;
+  }
+
+.main-header .main-heading{
+     font-size: 110px;
+
+}

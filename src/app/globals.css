@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+html{ 
+  scroll-behavior: smooth;
+}
+body{
+   font-family:initial;
+   text-align: center;
+}
+.btn{
+  background-color: teal;
+  border: none;
+  font-size: 18px;
+  padding: 10px;
+  color: white;
+  border-radius: 5px;
+  text-decoration: none;
+  margin-top: 10px;
+}
+.btn:hover{
+  box-shadow: 0 0 10px gray;
+  cursor: pointer;
+}
