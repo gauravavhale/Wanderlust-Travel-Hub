@@ -6,11 +6,11 @@
     font-size: 80px;
     color: teal;
     text-align: center;
-    padding-top: 25px ;
+    margin: 10px
 }
 .the-text {
     color: teal;
-    padding-top: 5px;
+    padding: 10px;
     font-size: 25px;
 }
 .package-wrapper{

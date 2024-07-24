@@ -1,6 +1,6 @@
 .holidays{
-    height: 370px;
-    width: 942px;
+    height: 450px;
+    width: 1535px;
     background: url("../../../public/Image/Ocean.jpeg") no-repeat;
     background-size: cover;
     text-align: center;   
@@ -9,11 +9,12 @@
     font-size: 80px;
     color: white;
     text-align: center;
-    padding-top: 45px ;
+    padding: 45px 0px 20px 0px;
     margin: 0px;
 }
 .the-text {
-    padding-top: 25px;
+    color: white;
+    padding-top: 5px;
     font-size: 25px;
 }
 .the-text:nth-child(4){
