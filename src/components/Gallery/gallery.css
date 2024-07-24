@@ -8,13 +8,13 @@
 }
 .the-heading{
     font-size: 80px;
-    color: white;
+    color: teal;
     text-align: center;
-    padding-top: 45px ;
+    padding-top: 25px ;
 }
-.the-text{
-    color: white;
-    padding-top: 40px;
+.the-text {
+    color: teal;
+    padding-top: 5px;
     font-size: 25px;
 }
 .zoom{
