@@ -1,7 +1,4 @@
-.packages {
-    text-align: center;
-    padding-top: 20px;
-}
+
 .the-heading{
     font-size: 80px;
     color: teal;
@@ -14,7 +11,7 @@
     font-size: 25px;
 }
 .package-wrapper{
-    margin: 40px; 
+    margin: 25px; 
     
 }
 .package-card{

@@ -1,10 +1,11 @@
-.holidays{
-    height: 450px;
+.holidays {
+    height: 480px;
     width: 1535px;
     background: url("../../../public/Image/Ocean.jpeg") no-repeat;
     background-size: cover;
-    text-align: center;   
+    text-align: center;
 }
+
 .the-heading{
     font-size: 80px;
     color: white;
@@ -12,9 +13,9 @@
     padding: 45px 0px 20px 0px;
     margin: 0px;
 }
-.the-text{
+.the-text {
     color: white;
-    padding-top: 5px;
+    padding: 15px;
     font-size: 25px;
 }
 .the-text:nth-child(4){
