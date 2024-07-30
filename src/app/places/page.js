@@ -8,6 +8,7 @@ import Dubai from '../../../public/Image/dubai.jpg'
 import Laddakh from '../../../public/Image/laddakh.jpg'
 import Italy from '../../../public/Image/italy.jpg'
 import Paris from '../../../public/Image/paris.jpg'
+import { Footer } from '@/components/Footer'
 
 const Places = () => {
   return (
@@ -24,6 +25,7 @@ const Places = () => {
         <Image src= {Italy} alt="Italy"/>
         <Image src= {Paris} alt="Paris"/>
       </div>
+      <Footer />
     </div>
   )
 }
