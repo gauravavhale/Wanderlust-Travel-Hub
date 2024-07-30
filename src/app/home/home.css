@@ -6,19 +6,19 @@
     text-align: center;
 }
 
-.the-heading{
+.the-head{
     font-size: 80px;
     color: white;
     text-align: center;
-    padding: 45px 0px 20px 0px;
+    padding: 35px 0px 20px 0px;
     margin: 0px;
 }
-.the-text {
+.the-tex{
     color: white;
     padding: 15px;
     font-size: 25px;
 }
-.the-text:nth-child(4){
+.the-tex:nth-child(4){
     margin-bottom: 30px;
 }
 .btn{
